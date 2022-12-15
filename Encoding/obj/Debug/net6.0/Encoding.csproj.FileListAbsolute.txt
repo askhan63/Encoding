@@ -1,0 +1,15 @@
+C:\Users\AS KHAN\source\repos\Encoding\Encoding\bin\Debug\net6.0\Encoding.exe
+C:\Users\AS KHAN\source\repos\Encoding\Encoding\bin\Debug\net6.0\Encoding.deps.json
+C:\Users\AS KHAN\source\repos\Encoding\Encoding\bin\Debug\net6.0\Encoding.runtimeconfig.json
+C:\Users\AS KHAN\source\repos\Encoding\Encoding\bin\Debug\net6.0\Encoding.dll
+C:\Users\AS KHAN\source\repos\Encoding\Encoding\bin\Debug\net6.0\Encoding.pdb
+C:\Users\AS KHAN\source\repos\Encoding\Encoding\obj\Debug\net6.0\Encoding.csproj.AssemblyReference.cache
+C:\Users\AS KHAN\source\repos\Encoding\Encoding\obj\Debug\net6.0\Encoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AS KHAN\source\repos\Encoding\Encoding\obj\Debug\net6.0\Encoding.AssemblyInfoInputs.cache
+C:\Users\AS KHAN\source\repos\Encoding\Encoding\obj\Debug\net6.0\Encoding.AssemblyInfo.cs
+C:\Users\AS KHAN\source\repos\Encoding\Encoding\obj\Debug\net6.0\Encoding.csproj.CoreCompileInputs.cache
+C:\Users\AS KHAN\source\repos\Encoding\Encoding\obj\Debug\net6.0\Encoding.dll
+C:\Users\AS KHAN\source\repos\Encoding\Encoding\obj\Debug\net6.0\refint\Encoding.dll
+C:\Users\AS KHAN\source\repos\Encoding\Encoding\obj\Debug\net6.0\Encoding.pdb
+C:\Users\AS KHAN\source\repos\Encoding\Encoding\obj\Debug\net6.0\Encoding.genruntimeconfig.cache
+C:\Users\AS KHAN\source\repos\Encoding\Encoding\obj\Debug\net6.0\ref\Encoding.dll
